@@ -1,2 +1,3 @@
 ready for staged area
 ready for commit
+changing the code
